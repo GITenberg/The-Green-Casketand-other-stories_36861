@@ -1,0 +1,33 @@
+_repo: The-Green-Casketand-other-stories_36861
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36861-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Molesworth, Mrs.
+    aliases:
+    - Mrs. (Mary Louisa) Molesworth
+    - Molesworth, Mary Louisa Stewart
+    birthdate: 1839
+    deathdate: 1921
+    gutenberg_agent_id: '2147'
+    url: http://www.gutenberg.org/2009/agents/2147
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
+description: ''
+gutenberg_issued: '2011-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36861'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+tableOfContents: The green casket -- Leo's post-office -- Brave little Denis.
+title: The Green Casket, and other stories
+url: http://www.gutenberg.org/ebooks/36861
